@@ -1,0 +1,31 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = D:\Study\SparkScalaTestProject\target\scala-2.12\classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FileOperations$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	InvokingFileTest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	getSparkS.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Implicit$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FileLoadSchemaless.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyFunc$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FileOperations.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	InvokingFileTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkSessionCreation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CreatingSparkSession.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkSessionCreation$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	InvokeSchema$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FileOperations$AggregateOps$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Joins.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SqlOperations$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FileOperations$userDefinedFunc$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Implicit.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Joins$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Joins$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Implicit$DataFrameExtnd.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	InvokeSchema.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SqlOperations.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	getSparkS$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Joins$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Joins$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyFunc.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: D:\Study\SparkScalaTestProject\target\scala-2.12\classes.bak[0m

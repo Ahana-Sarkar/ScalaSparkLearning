@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0mD:\Study\SparkScalaTestProject\src\main\scala\com\vertisage\sparkscalatest\Joins.scala:62:16: comparing values of types Int and Null using `==' will always yield false[0m
+[0m[[0m[33mwarn[0m] [0m[0m    if (df1col == null) df2col[0m
+[0m[[0m[33mwarn[0m] [0m[0m               ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
